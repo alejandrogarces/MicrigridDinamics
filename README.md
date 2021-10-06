@@ -1,0 +1,2 @@
+# MicrigridDinamics
+Dynamics of microgrids
